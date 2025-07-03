@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zuyuan Guo (郭祖源)"
+  name             : "Zuyuan Guo <br> (郭祖源)"
   avatar           : "images/avatar.png"
   bio              : "Ph.D. Candidate in University of Electronic Science and Technology of China."
   location         : "Chengdu, China"
