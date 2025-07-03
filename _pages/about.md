@@ -25,7 +25,7 @@ Hi, I am a Ph.D. candidate at the School of Information and Communication Engine
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-- [JDTFormer: A Hybrid-Scale Spatio-Temporal Transformer Network for Automotive Radar Extended Target Joint Detection and Tracking](https://arxiv.org/abs/2402.15725), **Zuyuan Guo**, Wujun Li, Hongfu Li, Wei Yi, Kah Chan Teh, **IEEE IOT-J 2025**
+- [JDTFormer: A Hybrid-Scale Spatio-Temporal Transformer Network for Automotive Radar Extended Target Joint Detection and Tracking](https://ieeexplore.ieee.org/document/10967504), **Zuyuan Guo**, Wujun Li, Hongfu Li, Wei Yi, Kah Chan Teh, **IEEE IOT-J 2025**
 
 # 🎖 Honors and Awards
 - *2022.09 - 2026.06 (Expected)*, Ph.D. in Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu.
@@ -36,9 +36,10 @@ Hi, I am a Ph.D. candidate at the School of Information and Communication Engine
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Reviewer
+- IEEE Intelligent Vehicles Symposium (IV)
+- IEEE Internet of Things Journal (IOT-J)
+- IEEE Transactions on Intelligent Transportation Systems (T-ITS)
+- IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+- IEEE Transactions on Signal Processing (TSP)
+- IEEE Transactions on Aerospace and Electronic Systems (TAES)
