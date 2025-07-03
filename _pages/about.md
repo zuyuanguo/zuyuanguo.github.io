@@ -25,7 +25,11 @@ Hi, I am a Ph.D. candidate at the School of Information and Communication Engine
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
+- Proposal-guide Multi-Scale Radar and Vision Fusion for 3D Object Detection, Hongfu Li, Jianhui Ling, **Zuyuan Guo**, Wei Yi, **IEEE T-ITS 2025** (Major Revision)
 - [JDTFormer: A Hybrid-Scale Spatio-Temporal Transformer Network for Automotive Radar Extended Target Joint Detection and Tracking](https://ieeexplore.ieee.org/document/10967504), **Zuyuan Guo**, Wujun Li, Hongfu Li, Wei Yi, Kah Chan Teh, **IEEE IOT-J 2025**
+- [Robust Radar and Vision Association for Measurement Uncertainty and Loss Especially in the Distant Region](https://ieeexplore.ieee.org/abstract/document/10816336), Hongfu Li, Hang Bai, **Zuyuan Guo**, Wei Yi, **IEEE Sensors Journal 2024**
+- [Efficient Radar Deep Temporal Detection in Urban Traffic Scenes](https://ieeexplore.ieee.org/document/9827053/), **Zuyuan Guo**, Haoran Wang, Wei Yi, Jiahao Zhang **IEEE IV 2022**
+- [Robust Radar Detection and Classification of Traffic Vehicles Based on Anchor-free CenterNet](https://ieeexplore.ieee.org/abstract/document/9674952), **Zuyuan Guo**, Wei Yi, Yuanhang Wu, Tai Luo **IEEE UCET 2021**
 
 # 🎖 Honors and Awards
 - *2022.09 - 2026.06 (Expected)*, Ph.D. in Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu.
