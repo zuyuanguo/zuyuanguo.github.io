@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
+title                    : "Zuyuan Guo"
 description              : "Ph.D. Candidate at UESTC, focusing on Radar Perception and Multi-Sensor Fusion for Autonomous Driving. "
 repository               : "zuyuanguo/zuyuanguo.github.io"
 google_scholar_stats_use_cdn : true
