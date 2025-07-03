@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zuyuan Guo"
-description              : 
+title                    : "Zuyuan Guo 郭祖源"
+description              : ""
 repository               : "zuyuanguo/zuyuanguo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zuyuan Guo <br> (郭祖源)"
+  name             : "Zuyuan Guo <br> 郭祖源"
   avatar           : "images/avatar.png"
   bio              : "Ph.D. Candidate in University of Electronic Science and Technology of China."
   location         : "Chengdu, China"
