@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a Ph.D. candidate at the School of Information and Communication Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), advised by Prof. Wei Yi. My research is centered at the intersection of **radar BEV perception**, **multi-sensor fusion**, and **object dectection and tracking** for autonomous driving systems.
-
-I have published several papers at the top international conferences and journals such as **IOT-J**, and **IV**, with total <a href='https://scholar.google.com/citations?user=2PmJf3YAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fajyy%2Fajyy.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> google scholar citations.
+Hi, I am a Ph.D. candidate at the School of Information and Communication Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), advised by Prof. Wei Yi. My research is centered at the intersection of **radar BEV perception**, **multi-sensor fusion**, and **object dectection and tracking** for autonomous driving systems. I have published several papers at the top international journals and conferences such as **IOT-J**, and **IV**.
 
 
 # 🔥 News
@@ -43,8 +41,9 @@ I have published several papers at the top international conferences and journal
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2026.06 (Expected)*, Ph.D. in Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu.
+- *2020.09 - 2022.06*, Master of Engineering in Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu.
+- *2016.09 - 2020.06*, Bachelor of Engineering in Information Engineering, Southern University of Science and Technology (SUSTech), Shenzhen.
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
