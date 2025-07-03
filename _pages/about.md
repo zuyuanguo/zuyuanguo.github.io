@@ -19,11 +19,6 @@ redirect_from:
 
 Hi, I am a Ph.D. candidate at the School of Information and Communication Engineering, University of Electronic Science and Technology of China, advised by Prof. Wei Yi. My research is centered at the intersection of **radar BEV perception**, **multi-sensor fusion**, and **object dectection and tracking** for autonomous driving systems. I have published several papers at the top international journals and conferences such as **IOT-J**, and **IV**.
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📝 Publications 
 - Proposal-guide Multi-Scale Radar and Vision Fusion for 3D Object Detection, Hongfu Li, Jianhui Ling, **Zuyuan Guo**, Wei Yi, **IEEE T-ITS 2025** (Major Revision)
 - [JDTFormer: A Hybrid-Scale Spatio-Temporal Transformer Network for Automotive Radar Extended Target Joint Detection and Tracking](https://ieeexplore.ieee.org/document/10967504), **Zuyuan Guo**, Wujun Li, Hongfu Li, Wei Yi, Kah Chan Teh, **IEEE IOT-J 2025**
@@ -31,18 +26,16 @@ Hi, I am a Ph.D. candidate at the School of Information and Communication Engine
 - [Efficient Radar Deep Temporal Detection in Urban Traffic Scenes](https://ieeexplore.ieee.org/document/9827053/), **Zuyuan Guo**, Haoran Wang, Wei Yi, Jiahao Zhang **IEEE IV 2022**
 - [Robust Radar Detection and Classification of Traffic Vehicles Based on Anchor-free CenterNet](https://ieeexplore.ieee.org/abstract/document/9674952), **Zuyuan Guo**, Wei Yi, Yuanhang Wu, Tai Luo **IEEE UCET 2021**
 
-# 🎖 Honors and Awards
+# 💻 Projects
+
+
+# 📖 Educations
 - *2022.09 - 2026.06 (Expected)*, Ph.D. in Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu.
 - *2020.09 - 2022.06*, Master of Engineering in Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu.
 - *2016.09 - 2020.06*, Bachelor of Engineering in Information Engineering, Southern University of Science and Technology (SUSTech), Shenzhen.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 💬 Reviewer
 - IEEE Intelligent Vehicles Symposium (IV)
-- IEEE Internet of Things Journal (IOT-J)
 - IEEE Transactions on Intelligent Transportation Systems (T-ITS)
 - IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 - IEEE Transactions on Signal Processing (TSP)
