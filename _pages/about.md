@@ -27,9 +27,9 @@ Hi, I am a Ph.D. candidate at the School of Information and Communication Engine
 - [Robust Radar Detection and Classification of Traffic Vehicles Based on Anchor-free CenterNet](https://ieeexplore.ieee.org/abstract/document/9674952), **Zuyuan Guo**, Wei Yi, Yuanhang Wu, Tai Luo **IEEE UCET 2021**
 
 # 💻 Projects
-- *2025* Huawei Technologies, Chengdu & Shanghai, China
+- *2025* Huawei Technologies, Chengdu, China
 - *2022 - 2024* Desay SV Automotive, Huizhou, China
-- *2021* Huawei Technologies, Chengdu & Shanghai, China
+- *2021* Huawei Technologies, Shanghai, China
 
 
 # 📖 Educations
