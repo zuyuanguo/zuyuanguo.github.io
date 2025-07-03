@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zuyuan Guo"
-description              : "Ph.D. Candidate at UESTC, focusing on Radar Perception and Multi-Sensor Fusion for Autonomous Driving. "
+description              : 
 repository               : "zuyuanguo/zuyuanguo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zuyuan Guo (郭祖源)"
   avatar           : "images/avatar.png"
-  bio              : "Ph.D. Candidate in Information and Communication Engineering, UESTC. <br> My research focuses on BEV perception, radar signal processing, and multi-sensor fusion."
+  bio              : "Ph.D. Candidate in University of Electronic Science and Technology of China."
   location         : "Chengdu, China"
-  employer         : "University of Electronic Science and Technology of China (UESTC)"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=2PmJf3YAAAAJ"
   email            : "zuyuanguo@outlook.com"
