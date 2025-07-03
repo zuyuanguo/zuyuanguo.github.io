@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a Ph.D. candidate at the School of Information and Communication Engineering, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), advised by Prof. Wei Yi. My research is centered at the intersection of **radar BEV perception**, **multi-sensor fusion**, and **object dectection and tracking** for autonomous driving systems. I have published several papers at the top international journals and conferences such as **IOT-J**, and **IV**.
+Hi, I am a Ph.D. candidate at the School of Information and Communication Engineering, University of Electronic Science and Technology of China, advised by Prof. Wei Yi. My research is centered at the intersection of **radar BEV perception**, **multi-sensor fusion**, and **object dectection and tracking** for autonomous driving systems. I have published several papers at the top international journals and conferences such as **IOT-J**, and **IV**.
 
 
 # 🔥 News
@@ -25,20 +25,7 @@ Hi, I am a Ph.D. candidate at the School of Information and Communication Engine
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [JDTFormer: A Hybrid-Scale Spatio-Temporal Transformer Network for Automotive Radar Extended Target Joint Detection and Tracking](https://arxiv.org/abs/2402.15725), **Zuyuan Guo**, Wujun Li, Hongfu Li, Wei Yi, Kah Chan Teh, **IEEE IOT-J 2025**
 
 # 🎖 Honors and Awards
 - *2022.09 - 2026.06 (Expected)*, Ph.D. in Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu.
