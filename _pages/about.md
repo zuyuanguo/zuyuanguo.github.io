@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a Ph.D. candidate at the School of Information and Communication Engineering, University of Electronic Science and Technology of China, advised by Prof. Wei Yi. My research is centered at the intersection of **radar BEV perception**, **multi-sensor fusion**, and **object dectection and tracking** for autonomous driving systems. I have published several papers at the top international journals and conferences such as **IOT-J**, and **IV**.
+Hi, I am a Ph.D. candidate at the School of Information and Communication Engineering, University of Electronic Science and Technology of China, advised by Prof. Wei Yi. My research is centered at the intersection of **radar BEV perception**, **multi-sensor fusion**, and **object dectection and tracking** for intelligent transportation system and autonomous driving systems. I have published several papers at the top international journals and conferences such as **IOT-J**, and **IV**.
 
 # 📝 Publications 
 - Proposal-guide Multi-Scale Radar and Vision Fusion for 3D Object Detection, Hongfu Li, Jianhui Ling, **Zuyuan Guo**, Wei Yi, **IEEE T-ITS 2025** (Major Revision)
